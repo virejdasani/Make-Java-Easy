@@ -10,7 +10,7 @@
 - This is a way to make java easy for beginners. 
 
 ### Example
-- This is a common way to getinput from users in the terminal with Java:                 
+- This is a common way to get input from users in the terminal with Java:                 
 ```
 // Import library
         import java.util.Scanner;
@@ -27,7 +27,7 @@
         System.out.println(userInput);
 ```
 
-- This takes about 6 lines of code in Jav when the same can be done in Python using just 2:
+- This takes about 6 lines of code in Java when the same can be done in Python using just 2:
 ```
 userInput = input("Enter input: ")
 print(userInput)
