@@ -4,7 +4,7 @@
 
 ## Info
 - All the functions are written in the `makejavaeasy.java` file.
-- All the functions are used in the `demo.java` file.
+- All the functions are shown and used in the `demo.md` file.
 
 ## What the heck is this?
 - This is a way to make java easy for beginners. 
