@@ -1,6 +1,6 @@
 # Make-Java-Easy
 
-### A Llibrary / Package that makes writing java as easy as Python! 
+### A Library / Package that makes writing java as easy as Python! 
 
 ## Info
 - All the functions are written in the `makejavaeasy.java` file.
