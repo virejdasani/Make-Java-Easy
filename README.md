@@ -11,7 +11,7 @@
 
 ### Example
 - This is a common way to get input from users in the terminal with Java:                 
-```
+```java
 // Import library
         import java.util.Scanner;
         
@@ -28,14 +28,14 @@
 ```
 
 - This takes about 6 lines of code in Java when the same can be done in Python using just 2:
-```
+```python
 userInput = input("Enter input: ")
 print(userInput)
 ```
 
 ## MakeJavaEasy solves this problem!
 - Simply use the function `getString(String)`:
-```
+```java
 String input = makejavaeasy.getString("Enter input: ");
 System.out.println(input);
 ```
